@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Comvision_TestProjecct\bin\Debug\Comvision_TestProjecct.exe.config
+C:\Users\HP\source\repos\Comvision_TestProjecct\bin\Debug\Comvision_TestProjecct.exe
+C:\Users\HP\source\repos\Comvision_TestProjecct\bin\Debug\Comvision_TestProjecct.pdb
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.Login.resources
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.Properties.Resources.resources
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.Register.resources
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.WelcomePage.resources
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.exe
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.pdb
+C:\Users\HP\source\repos\Comvision_TestProjecct\obj\Debug\Comvision_TestProjecct.Index.resources
