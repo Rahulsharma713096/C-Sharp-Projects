@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ShowDataFromDatabase\bin\Debug\ShowDataFromDatabase.exe.config
+C:\Users\HP\source\repos\ShowDataFromDatabase\bin\Debug\ShowDataFromDatabase.exe
+C:\Users\HP\source\repos\ShowDataFromDatabase\bin\Debug\ShowDataFromDatabase.pdb
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.Form1.resources
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.Properties.Resources.resources
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.Show.resources
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.exe
+C:\Users\HP\source\repos\ShowDataFromDatabase\obj\Debug\ShowDataFromDatabase.pdb
