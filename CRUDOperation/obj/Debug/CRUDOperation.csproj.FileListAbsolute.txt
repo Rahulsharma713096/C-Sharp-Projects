@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CRUDOperation\bin\Debug\CRUDOperation.exe.config
+C:\Users\HP\source\repos\CRUDOperation\bin\Debug\CRUDOperation.exe
+C:\Users\HP\source\repos\CRUDOperation\bin\Debug\CRUDOperation.pdb
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.Form1.resources
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.InsertForm.resources
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.Properties.Resources.resources
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.exe
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.pdb
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.Delete.resources
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.Update.resources
+C:\Users\HP\source\repos\CRUDOperation\obj\Debug\CRUDOperation.Show1.resources
