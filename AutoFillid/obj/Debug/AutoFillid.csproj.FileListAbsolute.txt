@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\AutoFillid\bin\Debug\AutoFillid.exe.config
+C:\Users\HP\source\repos\AutoFillid\bin\Debug\AutoFillid.exe
+C:\Users\HP\source\repos\AutoFillid\bin\Debug\AutoFillid.pdb
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.Properties.Resources.resources
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.exe
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.pdb
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.AutoInsert.resources
+C:\Users\HP\source\repos\AutoFillid\obj\Debug\AutoFillid.ShowData.resources
